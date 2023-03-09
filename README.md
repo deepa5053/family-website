@@ -2,8 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## For New Collaborator ##########################
-Run npm install to install all node modules
+##### For New Collaborator ##########################
+Run `npm install` to install all node modules
 
 ## Available Scripts
 
