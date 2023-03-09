@@ -1,9 +1,7 @@
-import React from 'react'
+import React from 'react';
 
 const Jagtap = () => {
-  return (
-    <div>Jagtap</div>
-  )
-}
+  return <div>Jagtap</div>;
+};
 
-export default Jagtap
+export default Jagtap;

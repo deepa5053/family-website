@@ -1,9 +1,7 @@
-import React from 'react'
+import React from 'react';
 
 const Shimpi = () => {
-  return (
-    <div>Shimpi</div>
-  )
-}
+  return <div>Shimpi</div>;
+};
 
-export default Shimpi
+export default Shimpi;
